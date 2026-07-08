@@ -1,0 +1,4 @@
+El panel principal de la aplicación contará con un módulo de registro estructurado para capturar nuevas solicitudes, solicitando campos esenciales como el encabezado del reporte y los hechos detallados.
+​Asimismo, dispondrá de una sección desplegable que recopilará los casos activos para facilitar su consulta y lectura pública por parte de los ciudadanos.
+​Cada registro individual integrará un comando interactivo para manifestar respaldo solidario, vinculado directamente a un marcador numérico que computará en tiempo real el volumen de interacciones recibidas.
+​El entorno visual priorizará la usabilidad mediante un diseño limpio y minimalista, garantizando que los datos de carácter confidencial permanezcan completamente enmascarados y fuera del alcance de terceros.

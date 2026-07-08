@@ -1,0 +1,19 @@
+Entidad 1
+​Nombre de la entidad: Denuncia
+​Campos principales:
+​id_denuncia (Número único identificador)
+​titulo (Texto corto descriptivo)
+​descripcion (Texto detallado de la problemática)
+​fecha_creacion (Fecha y hora del registro)
+​estado (Texto: "Pendiente", "En revisión", "Resuelta")
+​id_usuario (Identificador del ciudadano que la registra)
+​Propósito de la información: Registrar y almacenar formalmente las quejas, solicitudes o problemáticas reportadas por los miembros de la comunidad para que la administración pública o los comités puedan conocerlas.
+​Entidad 2
+​Nombre de la entidad: Seguimiento
+​Campos principales:
+​id_seguimiento (Número único identificador)
+​id_denuncia (Enlace o clave foránea que conecta este avance con la Denuncia original)
+​fecha_actualizacion (Fecha y hora en que se registra el avance)
+​comentario_avance (Texto con los detalles de las acciones tomadas)
+​funcionario_encargado (Nombre o ID del responsable que atiende el caso)
+​Propósito de la información: Documentar cronológicamente cada una de las acciones, revisiones y respuestas institucionales aplicadas a una denuncia específica, garantizando la trazabilidad y la transparencia del proceso para el ciudadano.
